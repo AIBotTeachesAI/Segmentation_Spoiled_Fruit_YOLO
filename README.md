@@ -2,7 +2,7 @@
 
 # Watch output video here 
 
-Click the image above to watch the video or download it.
+Click the image below to watch the video or download it.
 
 https://github.com/user-attachments/assets/0aff17e8-67fa-4455-ba0d-67522e8c945b
 
